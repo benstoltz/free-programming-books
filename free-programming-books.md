@@ -229,6 +229,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 * [Introduction to Modern OpenGL](http://open.gl/)
+* [Learn OpenGL](http://learnopengl.com/) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
@@ -412,7 +413,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 #### Mathematics For Computer Science
 
-* [Mathematics for Computer Science (January 2012 Version)](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) (PDF) - Eric Lehman
+* [Mathematics for Computer Science (May 2015 Version)](https://courses.csail.mit.edu/6.042/spring15/mcs.pdf) (PDF) - Eric Lehman, F Thomson Leighton and Albert R Meyer
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
@@ -492,7 +493,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
+* [Understanding IP Addressing: Everything you ever wanted to know](http://www.di.unipi.it/~ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 
 
@@ -960,6 +961,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Fortran
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
 
 
 ### FreeBSD
@@ -1302,6 +1304,7 @@ See also [TeX](#tex)
 
 
 ### MATLAB
+* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
@@ -1518,6 +1521,8 @@ See also [TeX](#tex)
 * [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
 
 ### Python
+* [Python Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+* [Python Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
@@ -1595,6 +1600,8 @@ See also [TeX](#tex)
 
 
 #### Django
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1639,6 +1646,7 @@ See also [TeX](#tex)
 * [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
+* [R Programming for Data Science](https://leanpub.com/rprogramming) (Needs valid email)
 * [R Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
