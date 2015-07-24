@@ -480,6 +480,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [FutureLearn](https://www.futurelearn.com/)
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 * [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
+* [Platzi](https://courses.platzi.com/)
 * [Udacity](https://www.udacity.com/)
 
 
@@ -670,6 +671,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [The Busy Coder's Guide to Android Development] (https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
 
@@ -1433,7 +1435,7 @@ See also [TeX](#tex)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
 * [Impatient Perl](http://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
+* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - brian d foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
