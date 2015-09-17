@@ -1,6 +1,6 @@
 Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
-Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
+Original Source: [List of freely available programming books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926)
 
 
 ### Index
@@ -259,6 +259,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net/) (Resource)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://drive.google.com/file/d/0B48k2jhdQ5P2aVlmMFB1UUJLczA/edit?usp=sharing)
 * [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -565,6 +566,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
+* [RexEgg](http://www.rexegg.com/)
 
 
 #### Reverse Engineering
@@ -1035,7 +1037,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 ### Haskell
 * [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
-* [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
+* [The Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh
@@ -1056,6 +1058,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 ### HTML / CSS
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
+* [A free guide to learn HTML and CSS](http://marksheet.io/)
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
@@ -1189,7 +1192,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
-* [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
+* [jQuery Fundamentals](http://jqfundamentals.com/) (starts with JavaScript basics)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
@@ -1476,6 +1479,7 @@ See also [TeX](#tex)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
+* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
 
 
 ### PicoLisp
@@ -1616,7 +1620,7 @@ See also [TeX](#tex)
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.8)
 * [The Django book](http://www.djangobook.com/en/2.0/) (1.4 but mostly 1.0)
 
 
