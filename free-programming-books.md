@@ -39,6 +39,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
+* [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
@@ -301,6 +302,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 #### Compiler Design
+* [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/) - Brian Gough
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
@@ -560,7 +562,7 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Programming Paradigms
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
-
+* [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 
 #### Regular Expressions
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
@@ -573,6 +575,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Hacking the Xbox: An Introduction to Reverse Engineering](http://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [Reverse Engineering for Beginners](http://beginners.re/) (PDF) - Dennis Yurichev
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.com/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) (PDF) - Darmawan Salihun
+* [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
 
 
 #### Security
@@ -718,6 +721,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### AutoHotkey
 * [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
+* [AutoHotkey Official Documentation](http://ahkscript.org/docs/AutoHotkey.htm) ([CHM](http://ahkscript.org/download/1.1/AutoHotkeyHelp.zip))
 
 
 ### Autotools
@@ -785,6 +789,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
+* [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 * [Threading in C#](http://www.albahari.com/threading/)
@@ -838,7 +843,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-
+* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com/)
 
 ### COBOL
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
@@ -846,6 +851,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### CoffeeScript
+* [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io/)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
@@ -909,8 +915,14 @@ Original Source: [List of freely available programming books](http://web.archive
 * [GNU Emacs Manual, 17th Edition, v. 24.2](http://shop.fsf.org/product/Emacs_Manual_24/)
 
 
+### Embedded Systems
+* [Control and Embedded Systems](http://www.learn-c.com/) (HTML)
+* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+* [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
+
+
 ### Erlang
-* [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
+* [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Erlang Programming](http://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
@@ -1072,6 +1084,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [Adaptive Web Design] (http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 
 
 #### Bootstrap
@@ -1093,7 +1106,8 @@ Original Source: [List of freely available programming books](http://web.archive
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
 * [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
 * [NSHipster](http://nshipster.com/#archive) (Resource)
-* [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/RoadMapiOS.pdf) (PDF)
+* [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+* [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 
 
 ### Isabelle/HOL
@@ -1187,6 +1201,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
+* [JavaScript For Cats](http://jsforcats.com/)
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
@@ -1215,6 +1230,7 @@ Original Source: [List of freely available programming books](http://web.archive
 For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](https://web.archive.org/web/20150317044725/http://resrc.io/list/18/javascript-frameworks/), or to its source file `javascript-frameworks-resources.md`. As of July 2015, resrc.io has been permanently shut down. Consult [hackr.io](http://hackr.io/) instead.
 
 #### Node.js
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf), [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
@@ -1244,6 +1260,7 @@ See also [TeX](#tex)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
+* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line) - Michael Hartl
 * [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org/)
@@ -1478,6 +1495,7 @@ See also [TeX](#tex)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
 
@@ -1508,6 +1526,7 @@ See also [TeX](#tex)
 * [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
+* [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)
 * [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html)
 * [Learn Prolog Now!](http://www.learnprolognow.org/)
@@ -1722,7 +1741,7 @@ See also [TeX](#tex)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
-* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Ruby on Rails Tutorial: Learn Rails By Example](https://www.railstutorial.org/book/)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 
@@ -1730,6 +1749,7 @@ See also [TeX](#tex)
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
 
 
 ### Sage
@@ -1883,6 +1903,7 @@ See also [LaTeX](#latex)
 
 
 ### TypeScript
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 

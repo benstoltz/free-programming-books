@@ -5,6 +5,7 @@
 * [CSS](#css)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
+* [Ember.js](#emberjs)
 * [Erlang](#erlang)
 * [Javascript](#javascript)
 * [Language Agnostic](#language-agnostic)
@@ -35,6 +36,9 @@
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
 
+### Ember.js
+* [Podcast] - [Ember Weekend](https://emberweekend.com/episodes)
+
 ### Erlang
 * [Screencast] - [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
@@ -53,6 +57,8 @@
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
+* [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
+* [Podcast] - [Shop Talk Show](http://shoptalkshow.com/)
 
 ### Node.js
 * [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/)

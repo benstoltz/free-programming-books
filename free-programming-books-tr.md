@@ -1,6 +1,8 @@
 ### Index
 * [Android](#android)
+* [AspectJ](#aspectj)
 * [C](#c)
+* [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
@@ -26,10 +28,17 @@
 ### Android
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
+### AspectJ
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
+
 ### C
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 * [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
+* [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
+* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
+
+### CSS
+* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
@@ -55,6 +64,7 @@
 
 ### Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
+* [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
@@ -66,6 +76,9 @@
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
 
 ### Linux
+* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
 ### Matlab
@@ -78,15 +91,15 @@
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
 
 ### Python
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 ### Ruby
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
+* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
